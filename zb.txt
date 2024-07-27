@@ -91,3 +91,5 @@ CGTN ,http://150.138.8.143/00/SNM/CHANNEL00000357/index.m3u8
 动画,#genre#
 卡酷少儿 ,http://150.138.8.143/00/SNM/CHANNEL00000661/index.m3u8
 金鹰卡通 ,http://150.138.8.143/00/SNM/CHANNEL00002027/index.m3u8
+
+所有资源,https://www.chrqj.com/
