@@ -1,4 +1,4 @@
-央视,#类型#
+央视,#genre#
 中央电视台,http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8
 中央电视台第二套,http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8
 中央电视台3套频道,http://150.138.8.143/00/SNM/CHANNEL00000359/index.m3u8
@@ -20,7 +20,7 @@ CCTV14,http://150.138.8.143/00/SNM/CHANNEL00000323/index.m3u8
 中央电视台17频道,http://150.138.8.143/00/SNM/CHANNEL00000303/index.m3u8
 中国交通，http://150.138.8.143/00/SNM/CHANNEL00000073/index.m3u8
 
-卫视,#类型#
+卫视,#genre#
 北京卫视 ,http://150.138.8.143/00/SNM/CHANNEL00000302/index.m3u8
 黑龙江卫视,http://150.138.8.143/00/SNM/CHANNEL00000306/index.m3u8
 江苏卫视,http://150.138.8.143/00/SNM/CHANNEL00000304/index.m3u8
@@ -68,7 +68,7 @@ CCTV14,http://150.138.8.143/00/SNM/CHANNEL00000323/index.m3u8
 济南新闻,http://150.138.8.143/00/SNM/CHANNEL00000312/index.m3u8
 济南教育,http://150.138.8.143/00/SNM/CHANNEL00000069/index.m3u8
 
-数字,#流派#
+数字,#genre#
 北京纪实 ,http://150.138.8.143/00/SNM/CHANNEL00000332/index.m3u8
 纪实人文,http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
 金鹰纪实 ,http://150.138.8.143/00/SNM/CHANNEL00000334/index.m3u8
@@ -88,6 +88,6 @@ CCTV14,http://150.138.8.143/00/SNM/CHANNEL00000323/index.m3u8
 中国国际广播电台，http://150.138.8.143/00/SNM/CHANNEL00000357/index.m3u8
 魅力足球 ,http://150.138.8.143/00/SNM/CHANNEL00002021/index.m3u8
 
-动画,#流派#
+动画,#genre#
 酷少儿,http://150.138卡.8.143/00/SNM/CHANNEL00000661/index.m3u8
 金鹰卡通 ,http://150.138.8.143/00/SNM/CHANNEL00002027/index.m3u8
